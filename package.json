@@ -9,6 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "qiniu-js": "^2.2.2",
     "vue": "^2.5.13",
     "vue-router": "^3.0.1"
   },
