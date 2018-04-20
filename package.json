@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "qiniu-js": "^2.2.2",
+    "uppy": "^0.24.2",
     "vue": "^2.5.13",
     "vue-router": "^3.0.1"
   },

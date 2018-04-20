@@ -11,7 +11,7 @@ export default {
   data() {
     return {
       token:
-        "eaD5kIlApsS-lfxa9-0ktE2enUkUzJm9NG4Czvga:up4zBKwzw2AgRu_kBxxSwGbYVj0=:eyJzY29wZSI6InRlc3QiLCJkZWFkbGluZSI6MTUyNDE0NDg3OH0="
+        "eaD5kIlApsS-lfxa9-0ktE2enUkUzJm9NG4Czvga:z6LdAORty3KWfpRBBTcIT2EYVbM=:eyJzY29wZSI6InRlc3QiLCJkZWFkbGluZSI6MTUyNDIzODkzNH0="
     };
   },
   methods: {

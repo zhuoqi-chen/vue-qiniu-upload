@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link :to="{name:'QiniuSdk'}">About</router-link>
+      <router-link :to="{name:'QiniuSdk'}">QiniuSdk</router-link> |
+      <router-link :to="{name:'Uppy'}">Uppy</router-link>
     </div>
     <router-view/>
   </div>
